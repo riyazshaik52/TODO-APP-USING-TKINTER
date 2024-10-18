@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Complete the project",
+        "description": "complete the final project ",
+        "category": "exam",
+        "completed": false
+    },
+    {
+        "title": "Complete minor project",
+        "description": "complete and submit tthe project",
+        "category": "very importnat",
+        "completed": false
+    },
+    
+    {
+        "title": "Go to library",
+        "description": "read python book in library",
+        "category": "reading",
+        "completed": "2024-10-19"
+    }
+]
